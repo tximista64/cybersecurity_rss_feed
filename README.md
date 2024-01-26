@@ -3,7 +3,7 @@
 
 
 
-![image](https://github.com/tximista64/tximista_rss_feed/blob/main/tximista.jpeg)
+![image](https://github.com/tximista64/cybersecurity_rss_feed/blob/main/tximista.jpeg)
 
 
 
