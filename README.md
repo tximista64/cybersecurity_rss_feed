@@ -1,5 +1,4 @@
 
-<h2>tximista_rss_feed</h2>
 <h1>Cybersecurity monitoring rss feeds</h1>
 
 
