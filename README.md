@@ -9,7 +9,7 @@
 
 <h2>What about</h2>
 
-A simple textfile with my favourites cybersecurity rss feeds
+A simple textfile with my favourites cybersecurity rss/atom feeds which allow me to centralize all the ressources i monitor into a command line interface.
 
 <h2>How 2</h2>
 
@@ -18,7 +18,7 @@ A simple textfile with my favourites cybersecurity rss feeds
 
 <li>Then you can drop the url file into the newsboat folder</li>
 
-<li>Some of my feeds are not in english, feel free to propose your favorites in your own languages</li>
+<li>Some of my feeds are not in english, feel free to propose your favorites in your own languages if the feeds are significally relevants , i'm especially interested in basque or even spannish ressources</li>
 
 
 

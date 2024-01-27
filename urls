@@ -1,41 +1,89 @@
-https://www.cert.ssi.gouv.fr/feed/ 
-https://www.cisa.gov/news.xml
-https://feeds.feedburner.com/TheHackersNews
-https://gbhackers.com/feed
-https://portswigger.net/research/rss
-https://latesthackingnews.com/feed
-https://hackerone.com/blog.rss
+
+#Offensive
 https://feeds.feedburner.com/PentestTools
 https://www.hackread.com/feed
-https://cyble.com/feed
 https://darknet.org.uk/feed
-https://www.zataz.com/rss/zataz-news.rss
-https://securityonline.info/feed/
-https://securityonline.info/category/malware-analysis/feed
-https://securityonline.info/category/forensics/feed
-https://securityonline.info/category/machine-learning/feed
+
 https://securityonline.info/category/networking/feed
 https://securityonline.info/category/penetration-testing/network-pentest/feed
 https://securityonline.info/category/news/feed
 https://securityonline.info/category/reverse-engineering/feed
 https://securityonline.info/category/penetration-testing/webapp-pentest/feed
-https://tcm-sec.com/feed
 https://hackaday.com/feed
-https://www.bellingcat.com/feed
+
+
+#Blueteam
+https://securityonline.info/category/malware-analysis/feed
+https://securityonline.info/category/forensics/feed
+
+#BB
+https://hackerone.com/blog.rss
+https://portswigger.net/research/rss
+https://blog.intigriti.com/feed
 https://hackerone.com/blog.rss
 https://medium.com/feed/bugbountywriteup/tagged/bug-bounty
-https://blog.intigriti.com/feed
-https://ysamm.com/?feed=rss2
-https://www.hackthebox.com/rss/blog/all
+https://yogosha.com/fr/feed
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWU7EN08wYyCFizEOx3vfeA #Yeswehack
+
+#CERT
+https://www.cert.ssi.gouv.fr/feed/ 
+https://www.cisa.gov/news.xml
+
+#Threat intelligence
+https://krypt3ia.wordpress.com/feed
+https://cyble.com/feed
+
+#Persons of Interest
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6hdN69aeX49y7LvtKRUb8w #TheLaluka
+https://www.youtube.com/feeds/videos.xml?channel_id=UCF_x5O7CSfr82AfNVTKOv_A #Podalirius
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw #Thecybermentor
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw #JohnHammond
+https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw #Nahamsec
+https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w #LiveOverflow
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSXxklOmlUOJfjzOkKM07gg #Mitch Edwards
+https://ysamm.com/?feed=rss2 #Youssef Sammouda
+
+#Podcasts
+https://www.youtube.com/feeds/videos.xml?channel_id=UC3KV-CM2tO4wOsntdKkHXLw #HacktBack
+https://anchor.fm/s/435c0d58/podcast/rss
+
+#IT
+https://korben.info/feed
+https://davidbombal.com/feed
+https://securityonline.info/category/machine-learning/feed
+
+
+#News 
+https://rss.packetstormsecurity.com/
+https://latesthackingnews.com/feed
+https://feeds.feedburner.com/TheHackersNews
+https://www.hackread.com/feed
 https://intelnews.org/feed
 https://www.thecipherbrief.com/feed
-https://rss.packetstormsecurity.com/
-https://media.ccc.de/updates.rdf
-https://www.root-me.org/?page=backend&lang=fr
-https://hzv.fr/feed
-https://korben.info/feed 
+https://gbhackers.com/feed
+https://www.zataz.com/rss/zataz-news.rss
 https://reflets.info/feed
-https://krypt3ia.wordpress.com/feed
-https://defcon.org/defconrss.xml
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQgWpmt02UtJkyO32HGUASQ #Thinkerview
+https://www.bellingcat.com/feed
+
+#CTF
+https://www.root-me.org/?page=backend&lang=fr
+https://www.hackthebox.com/rss/blog/all
+https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA #ippsec YT
+
+#Conf
+https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg #BlackHat YT
+https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw #Defcon YT
+https://www.youtube.com/feeds/videos.xml?channel_id=UCSxk_CUfES4ly5Sspc0Vorw #HZV YT
+https://www.youtube.com/feeds/videos.xml?channel_id=UCnvB1SJdVYv-1zkByuYM73g #Rootme YT
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2TXq_t06Hjdr2g_KdKpHQg #CCC
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXJD3SRk4B2iUQU1LFx8ujg #Riskintel
+https://www.youtube.com/feeds/videos.xml?channel_id=UCmhyLl5DtaOaxYsqGkWODPQ #EuskalHack
+https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA #Hack2G2
+
+
+
+ 
+
 
 
