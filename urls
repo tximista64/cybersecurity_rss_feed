@@ -3,7 +3,6 @@
 https://feeds.feedburner.com/PentestTools
 https://www.hackread.com/feed
 https://darknet.org.uk/feed
-
 https://securityonline.info/category/networking/feed
 https://securityonline.info/category/penetration-testing/network-pentest/feed
 https://securityonline.info/category/news/feed
@@ -23,7 +22,7 @@ https://blog.intigriti.com/feed
 https://hackerone.com/blog.rss
 https://medium.com/feed/bugbountywriteup/tagged/bug-bounty
 https://yogosha.com/fr/feed
-https://www.youtube.com/feeds/videos.xml?channel_id=UCWU7EN08wYyCFizEOx3vfeA #Yeswehack
+https://feedfry.com/rss/11eebd3f8076c6fa9cd48f105248173a #yeswehack
 
 #CERT
 https://www.cert.ssi.gouv.fr/feed/ 
@@ -33,6 +32,7 @@ https://www.cisa.gov/news.xml
 https://krypt3ia.wordpress.com/feed
 https://cyble.com/feed
 
+
 #Persons of Interest
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6hdN69aeX49y7LvtKRUb8w #TheLaluka
 https://www.youtube.com/feeds/videos.xml?channel_id=UCF_x5O7CSfr82AfNVTKOv_A #Podalirius
@@ -41,11 +41,15 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw #Jo
 https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw #Nahamsec
 https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w #LiveOverflow
 https://www.youtube.com/feeds/videos.xml?channel_id=UCSXxklOmlUOJfjzOkKM07gg #Mitch Edwards
+
 https://ysamm.com/?feed=rss2 #Youssef Sammouda
+https://feedfry.com/rss/11eebd49e2571928b2677af2b03e641a #Netspooky
 
 #Podcasts
+https://feeds.megaphone.fm/darknetdiaries
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3KV-CM2tO4wOsntdKkHXLw #HacktBack
 https://anchor.fm/s/435c0d58/podcast/rss
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7lCQTgViJTA-J6aqY9YxwA #Trackflaw
 
 #IT
 https://korben.info/feed
