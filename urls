@@ -7,8 +7,8 @@ https://securityonline.info/category/penetration-testing/network-pentest/feed
 https://securityonline.info/category/news/feed
 https://securityonline.info/category/penetration-testing/webapp-pentest/feed
 https://hackaday.com/feed
-
-
+https://darknet.org.uk/feed
+https://sensepost.com/rss.xml
 
 #BB
 https://hackerone.com/blog.rss
@@ -18,12 +18,9 @@ https://www.bugcrowd.com/blog/feed
 https://medium.com/feed/bugbountywriteup/tagged/bug-bounty
 https://yogosha.com/fr/feed
 https://feedfry.com/rss/11eebd3f8076c6fa9cd48f105248173a #yeswehack
+https://www.bugbountyexplained.com/feed
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2X8qrRbQRK3qKu3CNps4Ng #pentesterlab
-
-
-#CERT
-https://www.cert.ssi.gouv.fr/feed/ 
-
+https://www.youtube.com/feeds/videos.xml?channel_id=UCcBgAEHAW0ESGwfoLJYg_Tg # Intigriti YT
 
 #Persons of Interest
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6hdN69aeX49y7LvtKRUb8w #TheLaluka
@@ -32,6 +29,9 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UC0ArlFuFYMpEewyRBzdLHiw #Th
 https://www.youtube.com/feeds/videos.xml?channel_id=UCCZDt7MuC3Hzs6IH4xODLBw #Nahamsec
 https://www.youtube.com/feeds/videos.xml?channel_id=UClcE-kVhqyiHCcjYwcpfj9w #LiveOverflow
 https://ysamm.com/?feed=rss2 #Youssef Sammouda
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw # John Hammond
+https://www.youtube.com/feeds/videos.xml?channel_id=UCZDyl7G-Lq-EMVO8PfDFp9g #Grzegorz Niedziela
+https://www.youtube.com/feeds/videos.xml?channel_id=UCIjGLeIsQz1HkCguMw0vb6A # Fransosich
 
 #Podcasts
 https://feeds.megaphone.fm/darknetdiaries
@@ -45,7 +45,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCXcgJO0ep-KQ17mqpjw3Y6Q #no
 https://www.root-me.org/?page=backend&lang=fr
 https://www.hackthebox.com/rss/blog/all
 https://www.youtube.com/feeds/videos.xml?channel_id=UCa6eh7gCkpPo5XXUDfygQQA #ippsec YT
-
+https://www.youtube.com/feeds/videos.xml?channel_id=UCEeuul0q7C8Zs5C8rc4REFQ # cryptocat
+https://www.youtube.com/feeds/videos.xml?channel_id=UClGm2C8Qi0_Wv68zfjCz2YA #xct
 #Conf
 https://www.youtube.com/feeds/videos.xml?channel_id=UCJ6q9Ie29ajGqKApbLqfBOg #BlackHat YT
 https://www.youtube.com/feeds/videos.xml?channel_id=UC6Om9kAkl32dWlDSNlDS9Iw #Defcon YT
@@ -56,9 +57,37 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCXJD3SRk4B2iUQU1LFx8ujg #Ri
 https://www.youtube.com/feeds/videos.xml?channel_id=UCmhyLl5DtaOaxYsqGkWODPQ #EuskalHack
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA #Hack2G2
 
+#Blueteam 
+https://www.cert.ssi.gouv.fr/feed/ 
+https://securityonline.info/category/malware-analysis/feed 
+https://securityonline.info/category/forensics/feed
+https://securityonline.info/category/reverse-engineering/feed
+https://krypt3ia.wordpress.com/feed
+https://cyble.com/feed
+https://nao-sec.org/feed
+https://isc.sans.edu/rssfeed_full.xml
+http://www.malware-traffic-analysis.net/blog-entries.rss
+https://securelist.com/feed/
+https://socprime.com/blog/feed/
+https://resources.infosecinstitute.com/topics/threat-intelligence/feed/
+https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
 
-
- 
+#IT 
+https://korben.info/feed 
+https://davidbombal.com/feed 
+https://securityonline.info/category/machine-learning/feed
+https://blogs.cisco.com/security/feed
+https://googleonlinesecurity.blogspot.com/atom.xml
+https://securityintelligence.com/feed/
+#News  
+https://rss.packetstormsecurity.com/ 
+https://latesthackingnews.com/feed 
+https://feeds.feedburner.com/TheHackersNews 
+https://www.hackread.com/feed 
+https://www.thecipherbrief.com/feed 
+https://gbhackers.com/feed 
+https://www.zataz.com/rss/zataz-news.rss 
+https://www.bellingcat.com/feed
 
 
 
