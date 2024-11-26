@@ -1,3 +1,35 @@
+#Blueteam
+https://www.cert.ssi.gouv.fr/feed/ #CERT FR
+https://securityonline.info/category/malware-analysis/feed
+https://securityonline.info/category/forensics/feed
+https://securityonline.info/category/reverse-engineering/feed
+https://krypt3ia.wordpress.com/feed
+https://cyble.com/feed
+https://nao-sec.org/feed
+https://isc.sans.edu/rssfeed_full.xml
+http://www.malware-traffic-analysis.net/blog-entries.rss
+https://securelist.com/feed/
+https://socprime.com/blog/feed/
+https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
+https://kravensecurity.com/blog/feed
+https://www.zerodayinitiative.com/rss/published/
+https://discuss.elastic.co/c/announcements/security-announcements/31.rss
+https://socprime.com/tag/cyberattack/feed
+https://unit42.paloaltonetworks.com/feed/
+https://thedfirreport.com/feed
+https://www.mandiant.com/resources/blog/rss.xml
+https://news.sophos.com/en-us/category/serious-security/feed/
+https://securityonline.info/category/machine-learning/feed
+https://blogs.cisco.com/security/feed
+https://googleonlinesecurity.blogspot.com/atom.xml
+https://securityintelligence.com/feed/
+https://rss.packetstormsecurity.com/
+https://latesthackingnews.com/feed
+https://feeds.feedburner.com/TheHackersNews
+https://www.hackread.com/feed
+https://www.thecipherbrief.com/feed
+https://blog.talosintelligence.com/feed # talosintelligence
+https://blog.virustotal.com/feeds/posts/default #VT
 
 #Offensive
 https://feeds.feedburner.com/PentestTools
@@ -7,6 +39,11 @@ https://securityonline.info/category/news/feed
 https://securityonline.info/category/penetration-testing/webapp-pentest/feed
 https://hackaday.com/feed
 https://darknet.org.uk/feed
+https://specterops.io/blog/feed
+https://www.synacktiv.com/en/feed/lastblog.xml #Synactiv
+https://gbhackers.com/feed
+https://hackread.com/category/hacking-news/feed
+https://sensepost.com/rss.xml #Orange
 
 #Web
 https://hackerone.com/blog.rss
@@ -35,6 +72,7 @@ https://n0.lol/index.xml #Netspooky
 https://beta.hackndo.com/feed.xml #pixis
 https://ech0.re/feed #echO
 https://pentesterlab.com/blog/feed #Louis Nyffenneger
+
 #Podcasts
 https://feeds.megaphone.fm/darknetdiaries #Darknet Diaries
 https://www.youtube.com/feeds/videos.xml?channel_id=UC3KV-CM2tO4wOsntdKkHXLw #HacktBack
@@ -64,53 +102,12 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCmhyLl5DtaOaxYsqGkWODPQ #Eu
 https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA #Hack2G2
 https://defcon.org/defconrss.xml # Defcon Rss
 
-#Blueteam 
-https://www.cert.ssi.gouv.fr/feed/ #CERT FR
-https://securityonline.info/category/malware-analysis/feed 
-https://securityonline.info/category/forensics/feed
-https://securityonline.info/category/reverse-engineering/feed
-https://krypt3ia.wordpress.com/feed
-https://cyble.com/feed
-https://nao-sec.org/feed
-https://isc.sans.edu/rssfeed_full.xml
-http://www.malware-traffic-analysis.net/blog-entries.rss
-https://securelist.com/feed/
-https://socprime.com/blog/feed/
-https://www.nist.gov/blogs/cybersecurity-insights/rss.xml
-https://kravensecurity.com/blog/feed
-https://www.zerodayinitiative.com/rss/published/
-https://discuss.elastic.co/c/announcements/security-announcements/31.rss
-https://socprime.com/tag/cyberattack/feed
-https://unit42.paloaltonetworks.com/feed/
-https://socradar.io/blog/feed/
-https://thedfirreport.com/feed
-https://www.mandiant.com/resources/blog/rss.xml
-https://news.sophos.com/en-us/category/serious-security/feed/ 
-https://securityonline.info/category/machine-learning/feed
-https://blogs.cisco.com/security/feed
-https://googleonlinesecurity.blogspot.com/atom.xml
-https://securityintelligence.com/feed/
-https://rss.packetstormsecurity.com/ 
-https://latesthackingnews.com/feed 
-https://feeds.feedburner.com/TheHackersNews 
-https://www.hackread.com/feed 
-https://www.thecipherbrief.com/feed 
-https://gbhackers.com/feed 
-https://hackread.com/category/hacking-news/feed
-
-#News
+#Misc
 https://www.bellingcat.com/feed
 https://morss.it/:items=||*[class=card-viu__cta-full-card]/https://www.ege.fr/infoguerre 
 https://feeds.feedburner.com/IntelligenceOnline-fr
 https://reflets.info/feed
 https://www.zataz.com/rss/zataz-news.rss
-#IT
 https://www.it-connect.fr/feed/
 https://korben.info/feed
 
-#Companies
-https://specterops.io/blog/feed
-https://www.synacktiv.com/en/feed/lastblog.xml #Synactiv
-https://sensepost.com/rss.xml #Orange
-https://cyberwatch.fr/blog-cyberwatch/feed #cyberwatch
-https://blog.talosintelligence.com/feed # talosintelligence
