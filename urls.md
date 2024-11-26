@@ -1,4 +1,4 @@
-Voici la liste formatée en Markdown :
+Here is the list formatted in Markdown:
 
 # Blueteam
 
