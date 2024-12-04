@@ -33,6 +33,7 @@ Here is the list formatted in Markdown:
 - [The Cipher Brief](https://www.thecipherbrief.com/feed)
 - [Talos Intelligence Blog](https://blog.talosintelligence.com/feed)
 - [VirusTotal Blog](https://blog.virustotal.com/feeds/posts/default)
+- [Infostealers by Hudson Rock](https://www.infostealers.com/learn-info-stealers/feed)
 
 # Offensive
 
