@@ -18,7 +18,7 @@ A simple textfile with my favourites cybersecurity rss/atom feeds which allow me
 
 <li>Then you can drop the url file into the newsboat folder</li>
 
-
+<li> Also add sysadmin & IT feeds and last but not least a .md file</li>
 
 
 
