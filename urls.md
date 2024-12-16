@@ -1,5 +1,3 @@
-Here is the list formatted in Markdown:
-
 # Blueteam
 
 - [CERT FR](https://www.cert.ssi.gouv.fr/feed/)
@@ -106,8 +104,6 @@ Here is the list formatted in Markdown:
 - [HZV YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCSxk_CUfES4ly5Sspc0Vorw)
 - [RootMe YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCnvB1SJdVYv-1zkByuYM73g)
 - [CCC YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UC2TXq_t06Hjdr2g_KdKpHQg)
-
-
 - [RiskIntel YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCXJD3SRk4B2iUQU1LFx8ujg)
 - [EuskalHack YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCmhyLl5DtaOaxYsqGkWODPQ)
 - [Hack2G2 YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA)
@@ -122,3 +118,4 @@ Here is the list formatted in Markdown:
 - [Zataz News](https://www.zataz.com/rss/zataz-news.rss)
 - [IT Connect](https://www.it-connect.fr/feed/)
 - [Korben](https://korben.info/feed)
+- [Le Mag IT](https://www.lemagit.fr/rss/ContentSyndication.xml)
