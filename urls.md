@@ -124,9 +124,11 @@
 - [Hack2G2 YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCqJt_ViIsIBNk7OLhEm_bZA)
 - [Defcon RSS](https://defcon.org/defconrss.xml)
 
-# Misc
+# Osint & Geopo
 
 - [Bellingcat](https://www.bellingcat.com/feed)
 - [Intelligence Online](https://feeds.feedburner.com/IntelligenceOnline-fr)
 - [Zataz News](https://www.zataz.com/rss/zataz-news.rss)
-- [IT Connect](https://www.it-connect.fr/feed/)
+- [Caspian Report YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCwnKziETDbHJtx78nIkfYug)
+
+
