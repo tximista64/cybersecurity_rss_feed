@@ -1,4 +1,4 @@
-# Blueteam
+# # Blueteam
 
 - [CERT FR](https://www.cert.ssi.gouv.fr/feed/)
 - [Security Online - Malware Analysis](https://securityonline.info/category/malware-analysis/feed)
@@ -32,6 +32,21 @@
 - [Talos Intelligence Blog](https://blog.talosintelligence.com/feed)
 - [VirusTotal Blog](https://blog.virustotal.com/feeds/posts/default)
 - [Infostealers by Hudson Rock](https://www.infostealers.com/learn-info-stealers/feed)
+- [CSO Online](https://www.csoonline.com/index.rss)
+- [Infosecurity Magazine](https://www.infosecurity-magazine.com/rss/news/)
+- [Packet Storm News](https://rss.packetstormsecurity.com/news/)
+- [Schneier on Security](https://www.schneier.com/feed/atom/)
+- [Bleeping Computer](https://www.bleepingcomputer.com/feed/)
+- [Dark Reading](https://www.darkreading.com/rss.xml)
+- [We Live Security (ESET)](https://www.welivesecurity.com/feed/)
+- [Rapid7 Blog](https://www.rapid7.com/blog/rss/)
+- [Fortinet Blog](https://blog.fortinet.com/rss)
+- [NVD RSS](https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss.xml)
+- [Help Net Security](https://www.helpnetsecurity.com/feed/)
+- [Reddit Netsec](https://www.reddit.com/r/netsec/.rss)
+- [CCN‑CERT España](https://www.ccn-cert.cni.es/component/obrss/rss-ultimas-vulnerabilidades.feed)
+- [CERT‑IL (direct.RSS)](https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5‑fed6‑4b8c‑b8ee‑7bf4a6bc81c8)
+
 
 # Offensive
 
@@ -71,7 +86,6 @@
 - [John Hammond YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCVeW9qkBjo3zosnqUbG7CFw)
 - [Grzegorz Niedziela YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCZDyl7G-Lq-EMVO8PfDFp9g)
 - [Fransosich YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCIjGLeIsQz1HkCguMw0vb6A)
-- [Jean-Pierre Lesueur Blog](https://morss.it/https://medium.com/phrozen)
 - [Thomas Roccia Blog](https://blog.securitybreak.io/feed)
 - [Netspooky Blog](https://n0.lol/index.xml)
 - [Pixis Blog](https://beta.hackndo.com/feed.xml)
@@ -113,10 +127,6 @@
 # Misc
 
 - [Bellingcat](https://www.bellingcat.com/feed)
-- [EGE Infoguerre](https://morss.it/:items=||*[class=card-viu__cta-full-card]/https://www.ege.fr/infoguerre)
 - [Intelligence Online](https://feeds.feedburner.com/IntelligenceOnline-fr)
-- [Reflets Info](https://reflets.info/feed)
 - [Zataz News](https://www.zataz.com/rss/zataz-news.rss)
 - [IT Connect](https://www.it-connect.fr/feed/)
-- [Korben](https://korben.info/feed)
-- [Le Mag IT](https://www.lemagit.fr/rss/ContentSyndication.xml)

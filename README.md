@@ -9,16 +9,12 @@
 
 <h2>What about</h2>
 
-A simple textfile with my favourites cybersecurity rss/atom feeds which allow me to centralize all the ressources i monitor into a command line interface.
+A simple and curated list of my favorite cybersecurity RSS/Atom feeds, organized by theme (Blue Team, Offensive, Web, CTF, Conferences, etc.).  
+It helps me centralize all the sources I monitor in a terminal-friendly format (via `rss2email`, `newsboat`, etc.).
 
-<h2>How 2</h2>
+Most feeds are in **English**, but you'll also find a lot in **French** and some in **Spanish**, **Hebrew**, and **Farsi**.
 
 
-<li>First check & eventually install this wonderful rss reader called Newsboat https://github.com/newsboat/newsboat</li>
-
-<li>Then you can drop the url file into the newsboat folder</li>
-
-<li> Also add sysadmin & IT feeds and last but not least a .md file</li>
 
 
 
