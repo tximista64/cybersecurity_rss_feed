@@ -94,6 +94,7 @@
 
 # Podcasts
 
+- [Purple Voice](https://shows.acast.com/purple-voice/episodes/682ca45055cb2b926ecdfb21)
 - [Darknet Diaries](https://feeds.megaphone.fm/darknetdiaries)
 - [HacktBack YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UC3KV-CM2tO4wOsntdKkHXLw)
 - [Hack & Speak Podcast](https://anchor.fm/s/435c0d58/podcast/rss)
