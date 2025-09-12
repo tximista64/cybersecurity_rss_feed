@@ -9,7 +9,7 @@
 - [Nao-sec](https://nao-sec.org/feed)
 - [ISC SANS](https://isc.sans.edu/rssfeed_full.xml)
 - [Malware Traffic Analysis](http://www.malware-traffic-analysis.net/blog-entries.rss)
-- [Securelist](https://securelist.com/feed/)
+- [Securelist by Kaspersky](https://securelist.com/feed/)
 - [SOC Prime Blog](https://socprime.com/blog/feed/)
 - [NIST Cybersecurity Insights](https://www.nist.gov/blogs/cybersecurity-insights/rss.xml)
 - [Kraven Security Blog](https://kravensecurity.com/blog/feed)
@@ -46,7 +46,6 @@
 - [Reddit Netsec](https://www.reddit.com/r/netsec/.rss)
 - [CCN‑CERT España](https://www.ccn-cert.cni.es/component/obrss/rss-ultimas-vulnerabilidades.feed)
 - [CERT‑IL (direct.RSS)](https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5‑fed6‑4b8c‑b8ee‑7bf4a6bc81c8)
-
 
 # Offensive
 
