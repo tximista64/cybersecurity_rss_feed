@@ -47,7 +47,6 @@
 - [CCN‑CERT España](https://www.ccn-cert.cni.es/component/obrss/rss-ultimas-vulnerabilidades.feed)
 - [CERT‑IL (direct.RSS)](https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5‑fed6‑4b8c‑b8ee‑7bf4a6bc81c8)
 - [Nextron Germany](https://www.nextron-systems.com/blog/feed)
-- [SOCPrime](https://socprime.com/blog/feed)
 # Offensive
 
 - [Pentest Tools](https://feeds.feedburner.com/PentestTools)
@@ -60,7 +59,6 @@
 - [SpecterOps Blog](https://specterops.io/blog/feed)
 - [Synacktiv Blog](https://www.synacktiv.com/en/feed/lastblog.xml)
 - [GBHackers](https://gbhackers.com/feed)
-- [HackRead - Hacking News](https://hackread.com/category/hacking-news/feed)
 - [Sensepost](https://sensepost.com/rss.xml)
 
 # Web
