@@ -1,4 +1,4 @@
-# # Blueteam
+# Blueteam
 
 - [CERT FR](https://www.cert.ssi.gouv.fr/feed/)
 - [Security Online - Malware Analysis](https://securityonline.info/category/malware-analysis/feed)
@@ -20,11 +20,11 @@
 - [The DFIR Report](https://thedfirreport.com/feed)
 - [Mandiant Blog](https://www.mandiant.com/resources/blog/rss.xml)
 - [Sophos Serious Security](https://news.sophos.com/en-us/category/serious-security/feed/)
-- [Security Online - Machine Learning](https://securityonline.info/category/machine-learning/feed)
 - [Cisco Security Blog](https://blogs.cisco.com/security/feed)
 - [Google Online Security Blog](https://googleonlinesecurity.blogspot.com/atom.xml)
 - [Security Intelligence](https://securityintelligence.com/feed/)
 - [Packet Storm Security](https://rss.packetstormsecurity.com/)
+- [Packet Storm News](https://rss.packetstormsecurity.com/news/)
 - [Latest Hacking News](https://latesthackingnews.com/feed)
 - [The Hacker News](https://feeds.feedburner.com/TheHackersNews)
 - [HackRead](https://www.hackread.com/feed)
@@ -34,7 +34,6 @@
 - [Infostealers by Hudson Rock](https://www.infostealers.com/learn-info-stealers/feed)
 - [CSO Online](https://www.csoonline.com/index.rss)
 - [Infosecurity Magazine](https://www.infosecurity-magazine.com/rss/news/)
-- [Packet Storm News](https://rss.packetstormsecurity.com/news/)
 - [Schneier on Security](https://www.schneier.com/feed/atom/)
 - [Bleeping Computer](https://www.bleepingcomputer.com/feed/)
 - [Dark Reading](https://www.darkreading.com/rss.xml)
@@ -45,8 +44,12 @@
 - [Help Net Security](https://www.helpnetsecurity.com/feed/)
 - [Reddit Netsec](https://www.reddit.com/r/netsec/.rss)
 - [CCN‑CERT España](https://www.ccn-cert.cni.es/component/obrss/rss-ultimas-vulnerabilidades.feed)
-- [CERT‑IL (direct.RSS)](https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5‑fed6‑4b8c‑b8ee‑7bf4a6bc81c8)
+- [CERT‑IL](https://www.gov.il/he/api/PublicationApi/rss/4bcc13f5‑fed6‑4b8c‑b8ee‑7bf4a6bc81c8)
 - [Nextron Germany](https://www.nextron-systems.com/blog/feed)
+- [abuse.ch Blog](https://abuse.ch/blog/feed/)
+- [MalwareBazaar — Nouveaux samples](https://bazaar.abuse.ch/export/rss/recent/)
+- [CVE List V5 — GitHub](https://github.com/CVEProject/cvelistV5/commits/main.atom)
+
 # Offensive
 
 - [Pentest Tools](https://feeds.feedburner.com/PentestTools)
@@ -60,8 +63,12 @@
 - [Synacktiv Blog](https://www.synacktiv.com/en/feed/lastblog.xml)
 - [GBHackers](https://gbhackers.com/feed)
 - [Sensepost](https://sensepost.com/rss.xml)
+- [Exploit-DB](https://www.exploit-db.com/rss.xml)
+- [Quarkslab Blog](https://blog.quarkslab.com/feeds/all.rss.xml)
+- [ProjectDiscovery Blog](https://blog.projectdiscovery.io/rss/)
+- [Assetnote Blog](https://blog.assetnote.io/feed.xml)
 
-# Web
+# Bug Bounty / Web
 
 - [HackerOne Blog](https://hackerone.com/blog.rss)
 - [Portswigger Research](https://portswigger.net/research/rss)
@@ -70,7 +77,6 @@
 - [Yogosha](https://yogosha.com/fr/feed)
 - [Bug Bounty Explained](https://www.bugbountyexplained.com/feed)
 - [PentesterLab YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UC2X8qrRbQRK3qKu3CNps4Ng)
-- [YesWeHack Blog](https://morss.it/:items=||*[class=absolute]/https://www.yeswehack.com/blog/news)
 - [Intigriti YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCcBgAEHAW0ESGwfoLJYg_Tg)
 
 # Persons of Interest
@@ -96,6 +102,7 @@
 - [RadioCSIRT](https://www.radiocsirt.org/feed)
 - [Darknet Diaries](https://feeds.megaphone.fm/darknetdiaries)
 - [HacktBack YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UC3KV-CM2tO4wOsntdKkHXLw)
+- [Silicon Carne Podcast](https://feed.ausha.co/vVW80F6lQwAm)
 - [Hack & Speak Podcast](https://anchor.fm/s/435c0d58/podcast/rss)
 - [Trackflaw YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UC7lCQTgViJTA-J6aqY9YxwA)
 - [Talk@ YouTube](http://www.youtube.com/feeds/videos.xml?channel_id=UCVshQy1R04akgMBEfKI_k0A)
@@ -103,6 +110,7 @@
 - [Malicious Life Podcast](https://feeds.redcircle.com/597cfd00-b29a-49c6-9622-03c8decfc35f)
 - [Risky Business Podcast](https://risky.biz/feeds/risky-business-news)
 - [No Limit Secu](https://www.nolimitsecu.fr/feed)
+- [Le Monde selon l'Ifri](https://feed.ausha.co/RdRaWTQ9LQ4Q)
 
 # CTF
 
@@ -130,5 +138,14 @@
 - [Intelligence Online](https://feeds.feedburner.com/IntelligenceOnline-fr)
 - [Zataz News](https://www.zataz.com/rss/zataz-news.rss)
 - [Caspian Report YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCwnKziETDbHJtx78nIkfYug)
-
-
+- [Silicon Carne — Carlos Diaz](https://siliconcarne.substack.com/feed)
+- [War on the Rocks](https://warontherocks.com/feed/)
+- [The Diplomat](https://thediplomat.com/feed/)
+- [Foreign Affairs](https://www.foreignaffairs.com/rss.xml)
+- [Lawfare](https://www.lawfaremedia.org/feed)
+- [Diploweb](https://www.diploweb.com/spip.php?page=backend)
+- [Le Grand Continent](https://legrandcontinent.eu/fr/feed/)
+- [IFRI Publications](https://www.ifri.org/fr/rss.xml)
+- [Cyber Scoop](https://cyberscoop.com/feed/)
+- [Recorded Future Blog](https://www.recordedfuture.com/feed)
+- [Crisis Group](https://www.crisisgroup.org/rss.xml)
