@@ -5,19 +5,8 @@ __pycache__/
 .venv/
 venv/
 env/
-*.egg-info/
-dist/
-build/
 
 # Output files
 briefing_*.pptx
 
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.vscode/
-.idea/
-*.swp
 

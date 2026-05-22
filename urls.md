@@ -77,6 +77,18 @@
 - [PentesterLab YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UC2X8qrRbQRK3qKu3CNps4Ng)
 - [Intigriti YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UCcBgAEHAW0ESGwfoLJYg_Tg)
 
+# IT 
+
+- [IT connect](https://www.it-connect.fr/feed/)
+- [LinuxFR](https://linuxfr.org/news.atom)
+- [Korben](https://korben.info/feed)
+- [Stephane Robert](https://blog.stephane-robert.info/index.xml)
+- [Nicolargo](https://nicolargo.com/feed)
+- [HowToGeek](https://www.howtogeek.com/feed/)
+- [RedesZone](https://www.redeszone.net/feed/)
+- [Rubenerd](https://rubenerd.com/feed/)
+
+
 # Persons of Interest
 
 - [The Laluka YouTube](https://www.youtube.com/feeds/videos.xml?channel_id=UC6hdN69aeX49y7LvtKRUb8w)
@@ -109,6 +121,7 @@
 - [Risky Business Podcast](https://risky.biz/feeds/risky-business-news)
 - [No Limit Secu](https://www.nolimitsecu.fr/feed)
 - [Le Monde selon l'Ifri](https://feed.ausha.co/RdRaWTQ9LQ4Q)
+- [BSD Now Podcast](https://feeds.twit.tv/bsdnow.xml)
 
 # CTF
 
